@@ -6,7 +6,8 @@
 
 # Visualizing Terrorism in Early Twentieth-Century China with Python & Folium
 ### February 17th, 2018
-#### Professor Linh D. Vu, Kenneth Klein, Xochilt Rodriguez, Benjamin Knight
+#### Professor Linh D. Vu
+### Research Assistants: Kenneth Klein, Xochilt Rodriguez, Benjamin Knight
 
 
 
