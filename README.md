@@ -1,6 +1,6 @@
 <div>
 <div align="center">
-<img src="https://github.com/b-knight/Visualizing_Terrorism_in_China_with_Folium/blob/master/Images/ASU_Logo.jpg" align="left" width="400" height="400" />
+<img src="https://github.com/b-knight/Visualizing_Terrorism_in_China_with_Folium/blob/master/Images/ASU_Logo.jpg" align="left" width="350" height="350" />
 </div>
 </div>
 
@@ -16,7 +16,7 @@ A time series heat map of terrorist incidents in early twentieth-century China w
 <div>
 <div align="center">
 <kbd>
-<img src="https://github.com/b-knight/Visualizing_Terrorism_in_China_with_Folium/blob/master/Images/Folium_1938-1942.gif" align="left" width="1076" height="522" />
+<img src="https://github.com/b-knight/Visualizing_Terrorism_in_China_with_Folium/blob/master/Images/Folium_1938-1942.gif" align="left" width="968" height="470" />
 </kbd>
 </div>
 </div>
