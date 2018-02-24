@@ -13,6 +13,14 @@
 
 A time series heat map of terrorist incidents in early twentieth-century China with data compiled by faculty and students at the Arizona State University School of Historical, Philosophical and Religious Studies.
 
+<div>
+<div align="center">
+<kbd>
+<img src="https://github.com/b-knight/Visualizing_Terrorism_in_China_with_Folium/blob/master/Images/Folium_1938-1942.gif" align="left" width="1076" height="522" />
+</kbd>
+</div>
+</div>
+
 ## The Data
 
 
